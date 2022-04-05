@@ -1,30 +1,20 @@
-
-1 #EXTM3U
-2 #EXTINF:-1,A
-3 http://103.112.55.107:9090/play/a02r/index.m3u8
-4 #EXTINF:-1,B
-5 http://str24.l9574.com/522.stream/index.m3u8
-6 #EXTINF:-1,C
-7 http://103.55.144.46:80/hls/starplus.m3u8
-8 #EXTINF:-1,D
-9 http://103.55.144.46:80/hls/utv.m3u8
-10 #EXTINF:-1,E
-11 http://103.55.144.46:80/hls/utvaction.m3u8
-12 #EXTINF:-1,F
-13 http://103.55.144.46:80/hls/zeecinemahd.m3u8
-14 #EXTINF:-1,G
-15 http://103.55.144.46:80/hls/zeetv.m3u8
-16 #EXTINF:-1,H
-17 http://live.flixhub.net/hls/andpictures.m3u8
-18 #EXTINF:-1,I
-19 http://live.flixhub.net/hls/zeecinemahd.m3u8
-20 #EXTINF:-1,J
-21 http://live.flixhub.net/hls/colorscineplex.m3u8
-22 #EXTINF:-1,K
-23 http://live.flixhub.net/hls/utvaction.m3u8
-24 #EXTINF:-1,L
-25 http://live.flixhub.net/hls/starmovies.m3u8
-26 #EXTINF:-1,M
-27 http://live.flixhub.net/hls/movies-now.m3u8
-28 #EXTINF:-1,N
-29 http://live.flixhub.net/hls/sonypixhd.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="NEXT-TV-LIVE",SONY HD https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",SAB TV https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",SONY MAX https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",SONY MAX https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",SONY PAL https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",SONY MAR https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1   group-title="NEXT-TV-LIVE",Sony Pixhttps://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 group-title="NEXT-TV-LIVE",SONY AATH https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",SONY YAY https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",SOBY WAH https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",SONY PIX https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 group-title="NEXT-TV-LIVE",TEN 2 HD https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",TEN 3 HD https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",TEN 4 HD https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",SONY SIX HD https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",TEN 1 https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 group-title="NEXT-TV-LIVE",MAX 2 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",BBC EARTH https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8 
+#EXTINF:-1 group-title="NEXT-TV-LIVE",TEN 1 HD https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
